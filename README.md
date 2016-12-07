@@ -6,6 +6,7 @@
 
 Compiled and worked on : **Clang 3.4, GCC 4.8.2, MSVC 2010, XCODE 6.4**
 
+**FORK NOTE**: The code will remain the same, but without the silly Doxygen Win32 executable which bloated the entire original repository, and uses CMake instead of Premake4. 
 
 ## Build status
 
